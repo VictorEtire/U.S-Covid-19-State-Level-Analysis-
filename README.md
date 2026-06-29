@@ -46,3 +46,6 @@ FROM vaccinations_us
 GROUP BY state
 ORDER BY total_distributed DESC
 LIMIT 20;
+
+<img width="1600" height="783" alt="image" src="https://github.com/user-attachments/assets/7e1e6139-1ca8-4abf-bad7-bb3706507695" />
+
